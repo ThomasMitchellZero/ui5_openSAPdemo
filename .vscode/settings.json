@@ -1,0 +1,5 @@
+{
+    "[xml]": {
+        "editor.defaultFormatter": "SAPSE.sap-ux-annotation-modeler-extension"
+    }
+}

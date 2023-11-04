@@ -16,3 +16,6 @@ https://sapui5.hana.ondemand.com/#/api
 12:05.
 
 OK.  We are stuck.  The i18n model isn't loading in my test application.  
+
+12:50.
+Ok.  I 'fixed' the problem by proceeding to the next step, but I really just do not understand what I changed or what was wrong.  

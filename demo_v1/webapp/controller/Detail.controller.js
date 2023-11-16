@@ -14,6 +14,7 @@ sap.ui.define([
 				path: "/" + window.decodeURIComponent(oEvent.getParameter("arguments").invoicePath),
 				model: "invoice"
 			});
-		}
+		},
+
 	});
 });

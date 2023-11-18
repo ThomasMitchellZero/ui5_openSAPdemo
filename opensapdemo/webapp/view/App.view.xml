@@ -1,4 +1,4 @@
-<mvc:View displayBlock="true"
+<mvc:View xmlns:simple="sap.gantt.simple" xmlns:controls="sap.viz.ui5.controls" displayBlock="true"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns:core="sap.ui.core"
     xmlns:l="sap.ui.layout"
@@ -76,6 +76,7 @@
 
                         </items>
                     </IconTabBar>
+                    <simple:GanttChartContainer ></simple:GanttChartContainer>
                 </content>
             </Page>
         </pages>
